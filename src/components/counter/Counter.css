@@ -1,0 +1,20 @@
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .buttons p {
+    margin: 50px;
+  }
+  
+  .btn {
+    border: 1px solid black;
+    padding: 20px 30px;
+    background-color: rgb(4, 205, 4);
+  }
+  
+  .btn:hover {
+    background-color: rgb(6, 172, 6);
+    transform: scale(1.1);
+  }
